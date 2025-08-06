@@ -8,7 +8,7 @@ export default function DevBlogs() {
           <p className="text-sm mb-3">Tutorial explicando los elementos del gestor de tareas y como lo cree.</p>
           <a href="https://www.youtube.com/watch?v=97coLVdzuwc" target="_blank" className="text-[#20d9d8] underline">Ver video</a>
         </div>
-        {/* Puedes agregar más aquí */}
+        
       </div>
     </section>
   );
